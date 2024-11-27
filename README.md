@@ -1,5 +1,9 @@
 # Gradient Bot
 
+**Channel: [https://t.me/JamBitPY](https://t.me/JamBitPY)**
+
+**Chat: [https://t.me/JamBitChat](https://t.me/JamBitChat)**
+
 ## 🌟 Overview
 Gradient Bot is an advanced automation tool designed to streamline account registration and farming processes on Gradient Network. With its powerful features and user-friendly interface, it offers a seamless experience for users looking to maximize their efficiency on the platform.
 
