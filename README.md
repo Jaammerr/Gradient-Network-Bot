@@ -14,7 +14,7 @@ Gradient Bot is an advanced automation tool designed to streamline account regis
 
 ## 💫 Key Information
 ### Purchase Details
-- **Price**: $175
+- **Price**: $200
 - **Contact**: [Telegram](https://t.me/Jaammerr)
 
 ## ✨ Features
